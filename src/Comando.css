@@ -1,0 +1,21 @@
+.com h1{
+    font-size: 100px;
+}
+.com{
+    background: #eee;
+    width: 800px;
+    height: 800px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.line{
+    width: 450px;
+    border: 1px solid gray;
+}
+.com ul li{
+    list-style: none;
+    margin-bottom: 20px;
+    margin-left: -40px;
+}

@@ -1,0 +1,22 @@
+.home{
+    width: 800px;
+    display: flex;
+    justify-content: space-between;
+}
+.menu{
+    display: flex;
+    flex-direction: column;
+}
+a{
+    text-decoration: none;
+}
+.menu-closed{
+    display: none;
+    margin-bottom: 10px;
+    
+}
+.menu-open{
+    display: block;
+    margin-bottom: 30px;
+    transform: translate(0px 120px);
+}
